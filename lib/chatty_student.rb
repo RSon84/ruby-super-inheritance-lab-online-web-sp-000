@@ -7,16 +7,17 @@ def hello
 end
 
 def raise_hand
-super
-super
-super
-super
-super
-super
-super
-super
-super
-super
+  10.times {super}
+# super
+# super
+# super
+# super
+# super
+# super
+# super
+# super
+# super
+# super
 
   # puts "Pick me!"
 end
