@@ -8,7 +8,16 @@ end
 
 def raise_hand
 super
-10.times
+super
+super
+super
+super
+super
+super
+super
+super
+super
+
   # puts "Pick me!"
 end
 end
